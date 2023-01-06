@@ -1,0 +1,101 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.bg-img{
+    background-image: url('./images/banner/banner2.png');
+    background-repeat: no-repeat;
+}
+.header-nav{
+      
+}
+.header-h1{
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: #151414;
+    padding: 150px 345px 0px;
+}
+.header-p{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color: #444343;
+    padding: 0px 376px 150px;
+}
+.btn-primary{
+    width: 180px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: coral;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-bottom: 150px;
+}
+
+
+
+
+.section-1{
+    display: flex;
+    
+}
+.person{
+    width: 569px;
+    height: 723.3px;
+    padding: 40px 130px 10px;
+    
+    
+}
+.person-1{
+    width: 569px;
+    height: 723.3px;
+    padding: 250px 139px 82px 0px;
+}
+.person-heading{
+    font-size: 40px;
+}
+.person-p{
+    font-size: 16px;
+    color: #444343;
+    font-weight: 400;
+    
+}
+
+
+
+
+.my-plan{
+    text-align: center;
+    font-size: 40px;
+}
+.plan-icon{
+    display: flex;
+    text-align: center;
+    margin-left: 250px;
+}
+.icon-position{
+    padding: 50px;
+}
+
+
+
+
+.gra-call{
+    background-image: url(./images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: 120px;
+    border-radius: 10px;
+
+}
+.gra-h1{
+    padding: 100px 60px;
+}
+
+
+
+
+
+
