@@ -101,7 +101,7 @@
 
 .gra-call{
     text-align: center;
-    background-image: url(./images/watch.png);
+    background-image: url(images/watch.png);
     position: relative;
     width: 77%;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@
     justify-content: space-between;
     background-color: #151414;
     position: absolute;
-    width: 1381px;
+    width: 1600px;
     height: 577px;
     left: 0px;
     top: 2646.3px;
