@@ -77,7 +77,7 @@
 .plan-icon{
     display: flex;
     text-align: center;
-    margin-left: 325px;
+    margin-left: 300px;
     gap: 112px;
     margin-bottom: 60px;
 }
@@ -132,7 +132,7 @@
     color: rgb(248, 68, 2);
     border-radius: 5px;
     border-color: white;
-    margin-top: 10px;
+    margin-top: 30px;
     
 }
 
