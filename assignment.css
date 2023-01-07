@@ -79,7 +79,7 @@
 .plan-icon{
     display: flex;
     text-align: center;
-    margin-left: 320px;
+    margin-left: 315px;
     gap: 112px;
     margin-bottom: 60px;
 }
@@ -106,7 +106,7 @@
     position: relative;
     width: 73%;
     background-repeat: no-repeat;
-    margin-left: 155px;
+    margin-left: 170px;
     border-radius: 10px;
     
 }
