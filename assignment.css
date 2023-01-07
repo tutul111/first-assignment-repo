@@ -106,8 +106,9 @@
     position: relative;
     width: 73%;
     background-repeat: no-repeat;
-    margin-left: 200px;
+    margin-left: 210px;
     border-radius: 10px;
+    border-color: white;
     
 }
 
@@ -188,7 +189,7 @@
     border-radius: 5px;
     font-size: 18px;
     font-weight: 700;
-    margin-top: 10px;
+    margin-top: 40px;
 }
 
 
