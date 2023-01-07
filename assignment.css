@@ -79,7 +79,7 @@
 .plan-icon{
     display: flex;
     text-align: center;
-    margin-left: 315px;
+    margin-left: 325px;
     gap: 112px;
     margin-bottom: 60px;
 }
@@ -112,7 +112,7 @@
 }
 
 .gra-call img{
-    max-width: 100%;
+    max-width: 98%;
     height: auto;
 }
 .gra-h2{
