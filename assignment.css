@@ -101,7 +101,7 @@
     text-align: center;
     background-image: url(images/watch.png);
     position: relative;
-    width: 75%;
+    width: 78%;
     background-repeat: no-repeat;
     margin-left: 210px;
     border-radius: 10px;
@@ -114,7 +114,7 @@
     height: auto;
 }
 .gra-h2{
-    margin: 60px 0px 0px 100px;
+    margin: 70px 0px 0px 100px;
 
 }
 .gra-div{
@@ -135,6 +135,34 @@
     margin-top: 30px;
     
 }
+
+
+.hard-work{
+    margin-top: 80px;
+    margin-left: 500px;
+    color: #FFFFFF;
+    
+}
+.h2-color{
+    color: #151414;
+}
+.tag1{
+    background-color:#F15B22;
+}
+.tag2{
+    background-color: blue;
+}
+.tag3{
+    background-color:#323330;
+}
+.sm-c{
+    background-color: darkgreen;
+}
+.an-c{
+    background-color: darkred;
+}
+
+
 
 
 
