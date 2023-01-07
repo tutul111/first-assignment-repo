@@ -39,7 +39,7 @@
 }
 
 
-
+<!-- person section style -->
 
 .section-1{
     display: flex;    
@@ -67,7 +67,7 @@
 }
 
 
-
+<!-- my plan section style -->
 
 .my-plan{
     text-align: center;
@@ -97,8 +97,7 @@
 
 
 
-
-
+<!-- gradient section style -->
 
 .gra-call{
     text-align: center;
@@ -140,7 +139,7 @@
 }
 
 
-
+<!-- footer style -->
 .div-footer{
     display: flex;
     justify-content: space-between;
