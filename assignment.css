@@ -12,6 +12,7 @@
     top: 0px;
     position: absolute;
     text-align: right;
+    margin: 20px;
 }
 .header-h1{
     color: #151414;
@@ -143,7 +144,7 @@
     justify-content: space-between;
     background-color: #151414;
     position: absolute;
-    width: 1550px;
+    width: 1500px;
     height: 577px;
     left: 0px;
     top: 2646.3px;
